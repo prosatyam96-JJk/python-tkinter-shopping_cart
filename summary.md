@@ -52,16 +52,16 @@ Update the status after running each test.
 
 | Test ID | Status | Remarks |
 |---|---|---|
-| TC01 | Passed | | Executed as expected |
-| TC02 | Passed | |
-| TC03 | Passed | |
-| TC04 | Passed | |
-| TC05 | Passed | |
-| TC06 | Passed | |
-| TC07 | Passed | |
-| TC08 | Passed | |
-| TC09 | Passed | |
-| TC10 | Passed | |
+| TC01 | Passed | Executed as expected |
+| TC02 | Passed | Executed as expected |
+| TC03 | Passed | Executed as expected |
+| TC04 | Passed | Executed as expected |
+| TC05 | Passed | Executed as expected |
+| TC06 | Passed | Executed as expected |
+| TC07 | Passed | Executed as expected |
+| TC08 | Passed | Executed as expected |
+| TC09 | Passed | Executed as expected |
+| TC10 | Passed | Executed as expected |
 
 
 ## 6. Project Assets
