@@ -50,7 +50,7 @@ The application also includes automatic discount and GST calculations along with
 
 Update the status after running each test.
 
-| Test ID | Status | 
+| Test ID | Status | Remarks |
 |---|---|---|
 | TC01 | Passed | |
 | TC02 | Passed | |
@@ -62,6 +62,7 @@ Update the status after running each test.
 | TC08 | Passed | |
 | TC09 | Passed | |
 | TC10 | Passed | |
+
 
 ## 6. Project Assets
 
