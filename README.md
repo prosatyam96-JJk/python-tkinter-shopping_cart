@@ -93,9 +93,7 @@ python-tkinter-shopping-cart/
 ├── README.md
 ├── summary.md
 └── assets/
-    ├── main-window.png
-    ├── shopping-cart.png
-    └── billing-result.png
+
 ```
 
 ## 📊 Project Summary and Testing
