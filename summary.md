@@ -52,7 +52,7 @@ Update the status after running each test.
 
 | Test ID | Status | Remarks |
 |---|---|---|
-| TC01 | Passed | |Executed as expected
+| TC01 | Passed | |Executed as expected |
 | TC02 | Passed | |
 | TC03 | Passed | |
 | TC04 | Passed | |
