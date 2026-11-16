@@ -1,16 +1,16 @@
 # 📊 Project Summary – Python Shopping Cart System
 
 ## 1. Project Information
+| Detail | Description |
+|---|---|
+| Project Name | Python Shopping Cart System |
+| Language | Python 3 |
+| GUI Framework | Tkinter |
+| Project Type | Desktop GUI Application |
+| Author | Satyam Kumar Singh |
+| College | Rungta University |
+| Branch | B.Tech CSE (AI & ML) |
 
-| Detail          | Description |
-
-| Project Name    | Python Shopping Cart System |
-| Language        | Python 3 |
-| GUI Framework   | Tkinter |
-| Project Type    | Desktop GUI Application |
-| Author          | Satyam Kumar Singh |
-| College         | Rungta University |
-| Branch          | B.Tech CSE (AI & ML) |
 
 ## 2. Project Description
 
