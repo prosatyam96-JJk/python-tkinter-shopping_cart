@@ -147,6 +147,7 @@ def add_to_cart():
 
     except ValueError:
         messagebox.showerror(
+            "Invalid Quantity"
             "Please Enter a Valid Quantity"
         )
 
