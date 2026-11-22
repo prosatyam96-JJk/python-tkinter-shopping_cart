@@ -141,7 +141,7 @@ def add_to_cart():
 
 
         messagebox.showinfo(
-            "Success"
+            "Success",
             f"{quantity} {name}(s) added to cart!"
         )
 
